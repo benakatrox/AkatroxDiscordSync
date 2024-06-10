@@ -1,4 +1,47 @@
+
+TR: AkatroxDiscordSync Gelişmiş bir Minecraft & Discord senkronizasyon pluginidir.
+
+EN: AkatroxDiscordSync is an advanced Minecraft & Discord synchronization plugin.
+
 ----------------------------------------------------------------------------------------------
+
+📌 TR:
+
+Eklentimizin birçok özelliği var, gelin kısaca bunlara göz atalım:
+
+- Eşleşen Discord hesapları için karakter belirleme yeteneği.
+- LuckPerms aracılığıyla Discord'da belirli ayrıcalıklara sahip olunan otomatik rol verme
+- Kullanıcının sunucusuna ona giriş yaptığında izinlerini kontrol ediyoruz, böylece bir VIP'nin süresi dolduğunda Discord otomatik olarak kullanıcıdan VIP iznini iptal eder veya tam tersi, birisi VIP alıp yeniden bağlandığında Discord'da otomatik olarak VIP izni verir.
+
+📝 Gelmesi planlanan güncellemeler:
+
+- Eşleşen kullanıcı hakkında Discord üzerinden bildirim komutu - Oyundan Discord'a anında rapor verme komutu /report (oyuncu adı) (rapor nedeni)
+- Discord Boost'a katılmalar için özel rol yetenekleri ve haftalık ödülleri belirleme yeteneği.
+- Sunucu hakkında bilgi mesajı, çevrimiçiler mi, kaç oyuncu var vb.
+
+🎓 Komutlar
+
+/adsync verify (kod)
+Discord üzerinden aldığınız kodu girerek hesabınızı onaylamanızı sağlar.
+
+/adsync info
+Bağlı hesap hakkında bilgi sağlar.
+
+/adsync reload
+Yapılandırma ve dil dosyalarını yenileyin.
+
+
+💼 Reload komutu op yetkisiyle çalışır, diğer tüm komutlar "akatroxdiscordsync.user" yetkisiyle çalışır.
+
+
+🌐 Discord Komutları
+
+/verify (oyuncu adı)
+Hesabınızı onaylamak için bir kod üretir.
+
+
+----------------------------------------------------------------------------------------------
+
 
 📌 EN:
 
@@ -34,44 +77,6 @@ Refresh config and language files.
 
 /verify (player name)
 It generates a code to confirm your account.
-
-
-----------------------------------------------------------------------------------------------
-
-
-📌 TR:
-
-Eklentimizin birçok özelliği var, gelin kısaca bunlara göz atalım:
-
-- Eşleşen Discord hesapları için karakter belirleme yeteneği.
-- LuckPerms aracılığıyla Discord'da belirli ayrıcalıklara sahip olunan otomatik rol verme
-- Kullanıcının sunucusuna ona giriş yaptığında izinlerini kontrol ediyoruz, böylece bir VIP'nin süresi dolduğunda Discord otomatik olarak kullanıcıdan VIP iznini iptal eder veya tam tersi, birisi VIP alıp yeniden bağlandığında Discord'da otomatik olarak VIP izni verir.
-
-📝 Gelmesi planlanan güncellemeler:
-
-- Eşleşen kullanıcı hakkında Discord üzerinden bildirim komutu - Oyundan Discord'a anında rapor verme komutu /report (oyuncu adı) (rapor nedeni)
-- Discord Boost'a katılmalar için özel rol yetenekleri ve haftalık ödülleri belirleme yeteneği.
-- Sunucu hakkında bilgi mesajı, çevrimiçiler mi, kaç oyuncu var vb.
-
-🎓 Komutlar
-
-/adsync verify (kod)
-Discord üzerinden aldığınız kodu girerek hesabınızı onaylamanızı sağlar.
-
-/adsync info
-Bağlı hesap hakkında bilgi sağlar.
-
-/adsync reload
-Yapılandırma ve dil dosyalarını yenileyin.
-
-
-💼 Reload komutu op yetkisiyle çalışır, diğer tüm komutlar "akatroxdiscordsync.user" yetkisiyle çalışır.
-
-
-🌐 Discord Komutları
-
-/verify (oyuncu adı)
-Hesabınızı onaylamak için bir kod üretir.
 
 ----------------------------------------------------------------------------------------------
 
