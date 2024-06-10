@@ -9,9 +9,9 @@ EN: AkatroxDiscordSync is an advanced Minecraft & Discord synchronization plugin
 
 Eklentimizin birçok özelliği var, gelin kısaca bunlara göz atalım:
 
-- Eşleşen Discord hesapları için karakter belirleme yeteneği.
-- LuckPerms aracılığıyla Discord'da belirli ayrıcalıklara sahip olunan otomatik rol verme
-- Kullanıcının sunucusuna ona giriş yaptığında izinlerini kontrol ediyoruz, böylece bir VIP'nin süresi dolduğunda Discord otomatik olarak kullanıcıdan VIP iznini iptal eder veya tam tersi, birisi VIP alıp yeniden bağlandığında Discord'da otomatik olarak VIP izni verir.
+- Eşlenen discord hesapları için ayarlanabilir ödüller.
+- LuckPerms yetkileriyle eş zamanlı çalışarak discorddada kullanıcıya perme göre rol verme (örneğin akatroxdiscordsync.vip permine sahipse kullanıcı discordda vip için ayarlanan permi otomatik kullanıcıya verir.
+- Kullanıcı sunucuya her katıldığında otomatik perm kontrolü sayesinde birisi vip aldığında otomatik discordda rol tanımlanır aynı şekilde birisinin vip süresi bittiğinde discorddan rol otomatik olarak alınır.
 
 📝 Gelmesi planlanan güncellemeler:
 
