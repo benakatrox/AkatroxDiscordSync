@@ -1,0 +1,9 @@
+verify_command_usage: "&aDoğru Kullanım: /verify <kod>"
+verification_success: "&aHesabınız başarıyla doğrulandı, teşekkürler!"
+invalid_code: "&cGirdiğiniz kod geçersiz!"
+only_game_command: "&cBu komut sadece oyun içinden çalıştırılabilir!"
+
+config_reloaded: "&aKonfigürasyon dosyaları yeniden yüklendi."
+discord_user_not_found: "&cBağlı Discord kullanıcısı bulunamadı."
+no_discord_linked: "&cMinecraft hesabınıza bağlı bir Discord hesabı bulunmamaktadır."
+no_permission: "&cBu komutu kullanma izniniz yok."

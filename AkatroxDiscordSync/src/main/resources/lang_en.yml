@@ -1,0 +1,9 @@
+verify_command_usage: "&aUsage: /verify <code>"
+verification_success: "&aYour account has been successfully verified, thank you!"
+invalid_code: "&cThe code you entered is invalid!"
+only_game_command: "&cThis command can only be executed in-game!"
+
+config_reloaded: "&aConfiguration files reloaded."
+discord_user_not_found: "&cLinked Discord user not found."
+no_discord_linked: "&cNo Discord account linked to your Minecraft account."
+no_permission: "&cYou do not have permission to use this command."

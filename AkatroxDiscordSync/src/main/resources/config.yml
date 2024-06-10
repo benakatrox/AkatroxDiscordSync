@@ -1,0 +1,29 @@
+language: "en" # tr for Turkish, en for English
+
+discord:
+  token: "DISCORD_BOT_TOKEN"  # Your Discord bot token
+  guild-id: "YOUR_GUILD_ID"  # Your minecraft server guild id
+  status: "online"             # Set bot status here (online, idle, dnd)
+  status-message: "Test Bot"   # Set the bot status message here
+
+ranks:                         # In this section, when you match the account, it will help you to get a role in Discord if you have a perm. You can add as many as you want
+  perm:
+    id: "DISCORD_ROLE_ID"
+
+# perm : perm: part is the name of the authority. Whatever you write there should take this form
+# if you write "akatroxdiscordsync.perm" vip there, you must have added the akatroxdiscordsync.vip
+# authority to the player or vip authorization group in LuckPerms
+# id: The id: part is the id of the role that the player will take in DC if he has that authority
+
+# Important warning: Also, do not forget to grant "akatroxdiscordsync.user" permission so that players can use commands such as /adsync verify|unlink|info by default.
+
+default_sync_perm_id: "YOUR_DEFAULT_ROLE_ID"
+
+# the default role id is the mapping that the player will receive for the default group when he
+# matches his account, even if he does not have any authority.
+
+default_gift:
+  - "say Hello, {player}!"
+  - "give {player} minecraft:diamond 3"
+
+# use {player} to tag the player

@@ -1,0 +1,12 @@
+name: AkatroxDiscordSync
+main: akatrox.discord.sync.AkatroxDiscordSync
+version: 1.0
+api-version: 1.16
+description: Minecraft Discord role synchronization plugin
+author: benakatrox
+jar-name: AkatroxDiscordSync.jar  # JAR dosyası adı
+commands:
+  akatroxdiscordsync:
+    description: "Manage Akatrox Discord synchronization"
+    usage: "/<command> <verify|reload|info|unlink>"
+    aliases: [ "adsync" ]
