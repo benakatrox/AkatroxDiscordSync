@@ -2,7 +2,7 @@
 ⠀
 ⠀
 ⠀
-**TURKISH**
+**TURKISH**a
 ⠀
 **AkatroxDiscordSync**
 ⠀
