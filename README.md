@@ -1,16 +1,16 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-⠀
-⠀
-⠀
-**TURKISH**a
-⠀
+
+
+
+**TURKISH**
+
 **AkatroxDiscordSync**
-⠀
+
 **Eklenti amacı: Discord ve Minecraft sunucunuz arasında senkronizasyon işlemleri gerçekleştirir ve birçok özelliğe sahiptir.**
-⠀
+
 **Dikkat! eklenti çalışması için LuckPerms ve PlaceHolderAPI eklentilerine ihtiyaç duyar.**
-⠀
-⠀
+
+
 _İşte birkaç özellik_
 ⠀
 - Belirli rütbe gruplarını belirleyip hesaplarını eşleştiren kullanıcıların o grupta olup olmadığını kontrol edin ve Discord sunucunuzda o role sahip olmalarını sağlayın. Örneğin: akatroxdiscordsync.vip iznini VIP grubunuza verin (.vip kısmını yapılandırmada ayarlarsınız) ve Discord rol ID'sinin karşılığını yapılandırmada ayarlayın. Kullanıcı VIP satın alırsa, otomatik olarak Discord'da VIP rolüne sahip olur. Dahası, bu kullanıcı sunucuya girdiğinde eşzamanlı olarak kontrol edilir. VIP süresi dolarsa, rol geri alınır.
